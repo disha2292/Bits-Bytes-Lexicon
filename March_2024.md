@@ -15,3 +15,9 @@ RSS readers typically organize subscribed feeds into a customizable interface, d
 Some RSS readers are standalone desktop or mobile applications, while others are web-based services accessible through a browser. Popular examples of RSS readers include Feedly, Inoreader, and NewsBlur.
 
 Overall, RSS readers provide a convenient way for users to stay informed about their favorite websites and topics by aggregating content from across the web into a single location.
+
+## DSL 
+DSL (Digital Subscriber Line) is a modem technology that uses existing telephone lines to transport high-bandwidth data, such as multimedia and video, to service subscribers. DSL provides dedicated, point-to-point, public network access.
+
+## MODEM technology
+"Modem" is an acronym for MOdulator/DEModulator. It converts the digital signal from your computer into an analog signal that can be carried by the phone line, and vice versa.
